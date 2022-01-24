@@ -1,0 +1,10 @@
+{
+  "name": "freee",
+  "version": "1.0.0",
+  "description": "freee",
+  "main": "index.js",
+  "repository": "git@github.com:makoto-engineer/freee.git",
+  "author": "makoto-engineer <72484465+makoto-engineer@users.noreply.github.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.1.1"
+}
